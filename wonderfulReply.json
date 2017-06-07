@@ -1,0 +1,47 @@
+{
+    "data": {
+        "replyList": {
+            "data": [
+                {
+                    "createTime": 1490928451000,
+                    "headUrl": "https://v62.pclady.com.cn/upchead/41/26/68/82/41266882_150x150",
+                    "image": ["http://pic.58pic.com/58pic/14/27/45/71r58PICmDM_1024.jpg"],
+                    "message": "修改后的1",
+                    "messageId": 685,
+                    "nickName": "a_胜",
+                    "supportState": 1,
+                    "supportTotal": 3,
+                    "techIconUrl": "",
+                    "userId": 41266882
+                },
+                {
+                    "createTime": 1492755474000,
+                    "headUrl": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1607/10/c0/23999063_1468153008582_190x190.jpg",
+                    "image": [],
+                    "message": "修改后的2",
+                    "messageId": 736,
+                    "nickName": "Alexia",
+                    "supportState": 0,
+                    "supportTotal": 0,
+                    "techIconUrl": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1606/12/c0/22705575_1465711632009_28x28.png",
+                    "userId": 43775243
+                },
+                {
+                    "createTime": 1492748869000,
+                    "headUrl": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1606/06/c0/22453168_1465179125269_190x190.png",
+                    "image": [],
+                    "message": "修改后的3",
+                    "messageId": 734,
+                    "nickName": "Misan.&#x2F;yb",
+                    "supportState": 0,
+                    "supportTotal": 0,
+                    "techIconUrl": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1606/12/c0/22705575_1465711632009_28x28.png",
+                    "userId": 43775250
+                }
+            ],
+            "total": 13
+        }
+    },
+    "msg": "请求成功",
+    "status": 0
+}
