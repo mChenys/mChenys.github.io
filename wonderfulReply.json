@@ -5,7 +5,10 @@
                 {
                     "createTime": 1490928451000,
                     "headUrl": "https://v62.pclady.com.cn/upchead/41/26/68/82/41266882_150x150",
-                    "image": ["http://pic.58pic.com/58pic/14/27/45/71r58PICmDM_1024.jpg"],
+                    "image": [ {
+                            "imageUrl": "http://pic.58pic.com/58pic/14/27/45/71r58PICmDM_1024.jpg",
+                            "largeImageUrl": "http://pic.58pic.com/58pic/14/27/45/71r58PICmDM_1024.jpg"
+                        }],
                     "message": "修改后的1",
                     "messageId": 685,
                     "nickName": "a_胜",
