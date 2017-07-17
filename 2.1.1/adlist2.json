@@ -1,0 +1,88 @@
+{
+    "syjdt": [
+        {
+            "seq": "5",
+            "image": "https://imgad0.pclady.com.cn/ivy/image/20177/6/14993083446070.jpg",
+            "to-uri": "https://ivy.pclady.com.cn/click?adid=452312&id=pclady.mdkt.sy.jdt.",
+            "cc-uri": "",
+            "vc-uri": "https://ivy.pclady.com.cn/show?adid=452312&id=pclady.mdkt.sy.jdt.&media=js",
+            "vc3d-uri": "",
+            "cc3d-uri": ""
+        }
+    ],
+    "pclady.mdkt.qdt.": {
+        "rule": {
+            "delay": "3",
+            "age": "5",
+            "interval": "10"
+        },
+        "ad": {
+            "image": "https://imgad0.pclady.com.cn/ivy/image/20177/6/14993082319560.jpg",
+            "to-uri": "https://ivy.pclady.com.cn/click?adid=452311&id=pclady.mdkt.qdt.",
+            "cc-uri": "",
+            "vc-uri": "https://ivy.pclady.com.cn/show?adid=452311&id=pclady.mdkt.qdt.&media=js",
+            "vc3d-uri": "",
+            "cc3d-uri": ""
+        }
+    },
+    "zxkct": [],
+    "zkymjdt": [],
+    "ad_homepage_hot": { 
+        "ad":[
+			"http://pic1.16pic.com/00/13/70/16pic_1370790_b.jpg",
+			"http://pic2.16pic.com/00/11/16/16pic_1116109_b.jpg",
+			"http://pic3.16pic.com/00/14/24/16pic_1424426_b.jpg",
+			"http://pic3.16pic.com/00/13/66/16pic_1366751_b.jpg"
+		],
+		"to-uri": "https://ivy.pclady.com.cn/click?adid=452311&id=pclady.mdkt.qdt.",
+		"cc-uri": "",
+		"vc-uri": "https://ivy.pclady.com.cn/show?adid=452311&id=pclady.mdkt.qdt.&media=js",
+		"vc3d-uri": "",
+		"cc3d-uri": "",
+        "image": "http://pic2.16pic.com/00/14/38/16pic_1438048_b.jpg" 
+    },
+    "ad_homepage_footer": {
+        "ad":[
+			{
+				"image":"http://www.chenyousheng.win/2.1.1/image/index.png",
+				"image_select":"http://www.chenyousheng.win/2.1.1/image/index_selected.png"
+			},
+			{
+				"image":"http://www.chenyousheng.win/2.1.1/image/course.png",
+				"image_select":"http://www.chenyousheng.win/2.1.1/image/course_selected.png"
+			},
+			{
+				"image":"http://www.chenyousheng.win/2.1.1/image/circle.png",
+				"image_select":"http://www.chenyousheng.win/2.1.1/image/circle_selected.png"
+			},
+			{
+				"image":"http://www.chenyousheng.win/2.1.1/image/mine.png",
+				"image_select":"http://www.chenyousheng.win/2.1.1/image/mine_selected.png"
+			}
+			
+		],
+		"to-uri": "https://ivy.pclady.com.cn/click?adid=452311&id=pclady.mdkt.qdt.",
+		"cc-uri": "",
+		"vc-uri": "https://ivy.pclady.com.cn/show?adid=452311&id=pclady.mdkt.qdt.&media=js",
+		"vc3d-uri": "",
+		"cc3d-uri": "",
+        "image": "http://pic2.16pic.com/00/14/38/16pic_1438048_b.jpg" 
+      
+    },
+    "ad_circle_leader": { 
+        "image": "http://pic3.16pic.com/00/07/20/16pic_720662_b.jpg",
+        "to-uri": "http://v34.pcauto.com.cn:82/click?adid=387993&id=auto.khd.bjbd.qp.",
+        "vc-uri": "http://v34.pcauto.com.cn:82/show?adid=387993&id=auto.khd.bjbd.qp.&media=js",
+        "cc-uri": "http://www.baidu.com",
+        "cc3d-uri": "http://xueche.pcauto.com.cn/",
+        "vc3d-uri": "http://www.pcauto.com.cn/"
+    },
+    "ad_circle_hot": { 
+        "image": "http://pic3.16pic.com/00/07/20/16pic_720662_b.jpg",
+        "to-uri": "http://v34.pcauto.com.cn:82/click?adid=387993&id=auto.khd.bjbd.qp.",
+        "vc-uri": "http://v34.pcauto.com.cn:82/show?adid=387993&id=auto.khd.bjbd.qp.&media=js",
+        "cc-uri": "http://www.baidu.com",
+        "cc3d-uri": "http://xueche.pcauto.com.cn/",
+        "vc3d-uri": "http://www.pcauto.com.cn/"
+    }
+}
