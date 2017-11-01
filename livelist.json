@@ -58,7 +58,7 @@
             "title": "我是直播标题5",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
             "time": 1509621538000,
-            "status": 1
+            "status": 1,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
             "roomid": 100,
