@@ -8,7 +8,7 @@
     "data": [
         {
             "title": "我是直播标题1",
-            "image": "https://v62.pclady.com.cn/upcfiles/images/upload/upc/tx/pclady_modern_app/1706/05/c0/11944482_1496648240064_750x422.png",
+            "image": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1612/08/c0/31890999_1481204452021_750x422.jpg",
             "time": 1509535138000,
             "status": 0,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
@@ -32,7 +32,7 @@
         },
         {
             "title": "我是直播标题3",
-            "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
+            "image": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1612/12/c0/32248097_1481542499830_750x422.jpg",
             "time": 1509621538000,
             "status": 2,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
