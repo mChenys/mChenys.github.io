@@ -1,5 +1,5 @@
 {
-	"statues": 0,
+	"status": 0,
 	"msg": "请求成功",
 	"data": [{
 		"title": "最新直播",
