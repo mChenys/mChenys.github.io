@@ -19,12 +19,12 @@
             "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
         },
         {
-            "title": "我是直播标题2",
+            "title": "我是视频",
             "image": "https://v62.pclady.com.cn/upcfiles/images/upload/upc/tx/pclady_modern_app/1706/05/c0/11944482_1496648240064_750x422.png",
             "time": 1509621538000,
             "status": 0,
-            "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
-            "mp4Url": "",
+            "rtmpPlayUrl": "",
+            "mp4Url": "http://v160.pclady.com.cn/pclady/mdkt_small_video/2017/10/27/1509086402222-mdkt_small_video-886387-0.mp4",
             "roomid": 100,
             "liveid": 100,
             "categoryId": 100,
