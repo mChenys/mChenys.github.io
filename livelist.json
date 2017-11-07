@@ -7,13 +7,13 @@
     },
     "data": [
         {
-            "title": "陈鹏的直播间",
+            "title": "线上直播",
             "image": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1612/08/c0/31890999_1481204452021_750x422.jpg",
             "time": 1509535138000,
             "status": 4,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
-            "roomid": 9486080,
+            "roomid": 18443436,
             "liveid": 181,
             "categoryId": 100,
             "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
