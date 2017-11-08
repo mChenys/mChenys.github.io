@@ -1,73 +1,111 @@
 {
     "topicData": {
         "image": "http://i1.3conline.com/images/upload/upc/face/43/51/19/54/43511954_70x70",
+        "“nickName":"昵称昵称",
         "title": "给宝宝买辅食就不是好妈妈吗",
         "des": "读取帖子第一段正文，最多返回50个文字即可",
         "topicId": "1214234"
     },
+    "category":[
+        {
+            "categoryId":1,
+            "categoryIcon":"http://i1.3conline.com/images/upload/upc/face/43/51/19/54/43511954_70x70",
+            "categoryTitle":"星妈厨房"
+        },
+         {
+            "categoryId":2,
+            "categoryIcon":"http://i1.3conline.com/images/upload/upc/face/43/51/19/54/43511954_70x70",
+            "categoryTitle":"妈妈知呀"
+        },
+         {
+            "categoryId":3,
+            "categoryIcon":"http://i1.3conline.com/images/upload/upc/face/43/51/19/54/43511954_70x70",
+            "categoryTitle":"潮童趣玩"
+        },
+         {
+            "categoryId":4,
+            "categoryIcon":"http://i1.3conline.com/images/upload/upc/face/43/51/19/54/43511954_70x70",
+            "categoryTitle":"潮妈趣评"
+        },
+          {
+            "categoryId":5,
+            "categoryIcon":"http://i1.3conline.com/images/upload/upc/face/43/51/19/54/43511954_70x70",
+            "categoryTitle":"导购栏目"
+        }
+    ],
     "data": [
         {
             "title": "我的直播",
             "image": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1612/08/c0/31890999_1481204452021_750x422.jpg",
             "time": 1509535138000,
-            "status": 4,
+            "liveStatus": 4,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
             "roomid": 9891389,
             "liveid": 181,
             "categoryId": 100,
-            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
+            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70",
+            "categoryTitle":"星妈厨房",
+            "suportCount":100
         },
         {
-            "title": "我是视频",
+            "title": "回放",
             "image": "https://v62.pclady.com.cn/upcfiles/images/upload/upc/tx/pclady_modern_app/1706/05/c0/11944482_1496648240064_750x422.png",
             "time": 1509621538000,
-            "status": 0,
+            "liveStatus": 3,
             "rtmpPlayUrl": "",
             "mp4Url": "http://v160.pclady.com.cn/pclady/mdkt_small_video/2017/10/27/1509086402222-mdkt_small_video-886387-0.mp4",
             "roomid": 100,
             "liveid": 100,
             "categoryId": 100,
-            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
+            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70",
+            "categoryTitle":"星妈厨房",
+            "suportCount":100
         },
         {
             "title": "德智直播",
             "image": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1612/12/c0/32248097_1481542499830_750x422.jpg",
             "time": 1509621538000,
-            "status": 4,
+            "liveStatus": 4,
             "rtmpPlayUrl": "rtmp://pili-publish.pcvideo.com.cn/pclive/pc_1509421067040?e=1510034243&token=A7AhHbW3j-_NjY-WiwAe6ejtPU-EcVU6V4_woa9Z:tfj8R3BxHyBEWYfP2c1tcXeRvkY=",
             "mp4Url": "",
             "roomid": 18443436,
             "liveid": 100,
             "categoryId": 100,
-            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
+            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70",
+            "categoryTitle":"星妈厨房",
+            "suportCount":50
         },
         {
-            "title": "我是直播标题4",
+            "title": "未开始",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
             "time": 1509621538000,
-            "status": 3,
+            "liveStatus":1,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
             "roomid": 100,
             "liveid": 100,
             "categoryId": 100,
-            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
+            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70",
+             "categoryTitle":"星妈厨房",
+             "suportCount":50
         },
         {
             "title": "我是直播标题5",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
             "time": 1509621538000,
-            "status": 1,
+            "liveStatus": 1,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
             "roomid": 100,
             "liveid": 100,
             "categoryId": 100,
-            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
+            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70",
+           "categoryTitle":"星妈厨房",
+             "suportCount":50
         },
         {
-            "title": "我是直播标题6",
+            "title": "未开始",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
             "time": 1509621538000,
             "status": 1,
@@ -76,55 +114,65 @@
             "roomid": 100,
             "liveid": 100,
             "categoryId": 100,
-            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
+            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70",
+            "categoryTitle":"星妈厨房",
+             "suportCount":50
         },
         {
-            "title": "我是直播标题7",
+            "title": "未开始",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
             "time": 1509621538000,
-            "status": 2,
+            "liveStatus": 1,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
             "roomid": 100,
             "liveid": 100,
             "categoryId": 100,
-            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
+            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70",
+            "categoryTitle":"星妈厨房",
+             "suportCount":50
         },
         {
-            "title": "我是直播标题8",
+            "title": "未开始",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
             "time": 1509621538000,
-            "status": 3,
+            "liveStatus": 1,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
             "roomid": 100,
             "liveid": 100,
             "categoryId": 100,
-            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
+            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70",
+           "categoryTitle":"星妈厨房",
+             "suportCount":50
         },
         {
-            "title": "我是直播标题9",
+            "title": "未开始",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
             "time": 1509621538000,
-            "status": 3,
+            "liveStatus": 1,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
             "roomid": 100,
             "liveid": 100,
             "categoryId": 100,
-            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
+            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70",
+           "categoryTitle":"星妈厨房",
+             "suportCount":50
         },
         {
-            "title": "我是直播标题10",
+            "title": "已结束",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
             "time": 1509621538000,
-            "status": 1,
+            "liveStatus": 2,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
             "roomid": 100,
             "liveid": 100,
             "categoryId": 100,
-            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70"
+            "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70",
+           "categoryTitle":"星妈厨房",
+             "suportCount":50
         }
     ],
     "total": "100",
