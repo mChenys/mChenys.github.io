@@ -65,7 +65,7 @@
         {
             "title": "德智直播",
             "image": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1612/12/c0/32248097_1481542499830_750x422.jpg",
-            "time": 1509621538000,
+            "time": 1509621538200,
             "liveStatus": 4,
             "rtmpPlayUrl": "rtmp://pili-publish.pcvideo.com.cn/pclive/pc_1509421067040?e=1510034243&token=A7AhHbW3j-_NjY-WiwAe6ejtPU-EcVU6V4_woa9Z:tfj8R3BxHyBEWYfP2c1tcXeRvkY=",
             "mp4Url": "",
@@ -79,7 +79,7 @@
         {
             "title": "未开始",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
-            "time": 1509621538000,
+            "time": 1509621538030,
             "liveStatus":1,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
@@ -93,7 +93,7 @@
         {
             "title": "我是直播标题5",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
-            "time": 1509621538000,
+            "time": 1509621538400,
             "liveStatus": 1,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
@@ -107,7 +107,7 @@
         {
             "title": "未开始",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
-            "time": 1509621538000,
+            "time": 1509621538500,
             "status": 1,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
@@ -135,7 +135,7 @@
         {
             "title": "未开始",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
-            "time": 1509621538000,
+            "time": 1509621538060,
             "liveStatus": 1,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
@@ -149,7 +149,7 @@
         {
             "title": "未开始",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
-            "time": 1509621538000,
+            "time": 1509621538070,
             "liveStatus": 1,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
@@ -163,7 +163,7 @@
         {
             "title": "已结束",
             "image": "https://img.pcbaby.com.cn/images/upload/upc/tx/kidsbbs6/1710/28/c3/64891695_1509196592391_1024x1024.jpg",
-            "time": 1509621538000,
+            "time": 1509621538080,
             "liveStatus": 2,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
