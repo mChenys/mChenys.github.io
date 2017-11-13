@@ -37,7 +37,7 @@
         {
             "title": "我的直播",
             "image": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1612/08/c0/31890999_1481204452021_750x422.jpg",
-            "time": 1509535138000,
+            "time": 1510538743000,
             "liveStatus": 4,
             "rtmpPlayUrl": "rtmp://pili-live-rtmp.pcvideo.com.cn/pclive/pc_1499847467072",
             "mp4Url": "",
@@ -65,7 +65,7 @@
         {
             "title": "德智直播",
             "image": "https://img.pclady.com.cn/images/upload/upc/tx/pclady_modern_app/1612/12/c0/32248097_1481542499830_750x422.jpg",
-            "time": 1509621538200,
+            "time": 1510538743002,
             "liveStatus": 4,
             "rtmpPlayUrl": "rtmp://pili-publish.pcvideo.com.cn/pclive/pc_1509421067040?e=1510034243&token=A7AhHbW3j-_NjY-WiwAe6ejtPU-EcVU6V4_woa9Z:tfj8R3BxHyBEWYfP2c1tcXeRvkY=",
             "mp4Url": "",
@@ -129,7 +129,7 @@
             "liveid": 100,
             "categoryId": 100,
             "categoryIcon": "http://i1.3conline.com/images/upload/upc/face/32/75/23/43/32752343_70x70",
-            "categoryTitle":"星妈厨房",
+            "categoryTitle":"星妈厨房1",
              "suportCount":50
         },
         {
