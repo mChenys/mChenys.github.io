@@ -2,8 +2,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<script type="text/javascript">
+  document.getElementById('open').onclick = function () {
+        window.location.href = "xclApp://homePage?key=name&value=zs";  // 尝试打开 scheme 
+  };
+</script>
 </head>
 <body>
-  <h1><a href="xclApp://homePage?key=name&value=zs">打开首页</a></h1>
+  <h1><a href="xclApp://homePage?key=name&value=zs">打开首页1</a></h1>
+  <div id="open">打开首页2</div>
 </body>
 </html>
